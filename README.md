@@ -11,7 +11,7 @@ This repository contains the following Web design projects:
       React.js:
     </li>
     <li>
-      React Natve.js:
+      ReactNatve.js:
     </li>
     <li>
       Next.js:
