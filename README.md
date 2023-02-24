@@ -1,5 +1,5 @@
 # Web Development Projects:
-This repository contains the following Web design projects:
+This repository will soon be updated with projects from the following categories:
   <ul>
     <li>
       HTML & CSS:
@@ -11,9 +11,6 @@ This repository contains the following Web design projects:
       React.js:
     </li>
     <li>
-      ReactNatve.js:
-    </li>
-    <li>
       Next.js:
     </li>
     <li>
@@ -21,5 +18,11 @@ This repository contains the following Web design projects:
     </li>
     <li>
       Vue.js:
+    </li>
+    <li>
+      Electron.js:
+    </li>
+    <li>
+      TypeScript
     </li>
   </ul>
